@@ -30,3 +30,7 @@ Este é um catálogo colaborativo de receitas culinárias.
 4. Faça commit com mensagem clara
 5. Envie pull request
 
+## 🥕 Ingredientes Comuns
+- Sal
+- Azeite
+- Alho
